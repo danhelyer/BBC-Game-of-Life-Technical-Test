@@ -133,7 +133,6 @@ for i in range(y_axis):
 
 #Let the game begin
 Game_Over = False
-print()
 
 #While loop is used to continue game until Game Over is reached
 while not Game_Over:
