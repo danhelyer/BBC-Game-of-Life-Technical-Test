@@ -137,6 +137,7 @@ print()
 
 #While loop is used to continue game until Game Over is reached
 while not Game_Over:
+    print()
     print_array(array)
     input('Press enter to continue to the next iteration...')
 
