@@ -6,7 +6,7 @@ After choosing the grid dimensions, users can evolve to the next game iteration 
 ## Assumptions
 In completing this task I made the following assumptions:
 1. An infinite grid is not possible, instead users may define grid dimensions
-2. Rather than beginning with a predefined seeded grid, random grid generations are acceptable
+2. Rather than beginning with a predefined seeded grid, random grid generations are preferred
 
 ## Conway's Conditions for Life
 ### Scenario 0: No Interations
